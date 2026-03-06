@@ -12,7 +12,7 @@ After deployment the app will be available at:
 
 Streamlit App Link
 
----
+https://fraud-detection-system-ztmdkfblflcrgthj4es34t.streamlit.app/
 
 ## 🧠 Machine Learning Pipeline
 
@@ -122,9 +122,7 @@ Fraudulent
 
 ## 📸 Application Screenshot
 
-(Add screenshot here)
-
----
+![Fraud Detection App](screenshot.png)
 
 ## 📁 Project Structure
 
